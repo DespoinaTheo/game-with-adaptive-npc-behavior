@@ -26,5 +26,5 @@
 
 ## How to Run
 - Open the Project in Unity 6000.0.42f1
-- - The *Library* folder has been deleted to reduce the project size, so you need to select the *MenuScene* from the *Scenes* folder.
+- The *Library* folder has been deleted to reduce the project size, so you need to select the *MenuScene* from the *Scenes* folder.
 - Press Run to start 
